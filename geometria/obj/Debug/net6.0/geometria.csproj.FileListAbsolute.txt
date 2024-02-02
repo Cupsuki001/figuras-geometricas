@@ -1,0 +1,15 @@
+C:\Users\Sistema2-17\source\repos\geometria\geometria\bin\Debug\net6.0\geometria.exe
+C:\Users\Sistema2-17\source\repos\geometria\geometria\bin\Debug\net6.0\geometria.deps.json
+C:\Users\Sistema2-17\source\repos\geometria\geometria\bin\Debug\net6.0\geometria.runtimeconfig.json
+C:\Users\Sistema2-17\source\repos\geometria\geometria\bin\Debug\net6.0\geometria.dll
+C:\Users\Sistema2-17\source\repos\geometria\geometria\bin\Debug\net6.0\geometria.pdb
+C:\Users\Sistema2-17\source\repos\geometria\geometria\obj\Debug\net6.0\geometria.csproj.AssemblyReference.cache
+C:\Users\Sistema2-17\source\repos\geometria\geometria\obj\Debug\net6.0\geometria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sistema2-17\source\repos\geometria\geometria\obj\Debug\net6.0\geometria.AssemblyInfoInputs.cache
+C:\Users\Sistema2-17\source\repos\geometria\geometria\obj\Debug\net6.0\geometria.AssemblyInfo.cs
+C:\Users\Sistema2-17\source\repos\geometria\geometria\obj\Debug\net6.0\geometria.csproj.CoreCompileInputs.cache
+C:\Users\Sistema2-17\source\repos\geometria\geometria\obj\Debug\net6.0\geometria.dll
+C:\Users\Sistema2-17\source\repos\geometria\geometria\obj\Debug\net6.0\refint\geometria.dll
+C:\Users\Sistema2-17\source\repos\geometria\geometria\obj\Debug\net6.0\geometria.pdb
+C:\Users\Sistema2-17\source\repos\geometria\geometria\obj\Debug\net6.0\geometria.genruntimeconfig.cache
+C:\Users\Sistema2-17\source\repos\geometria\geometria\obj\Debug\net6.0\ref\geometria.dll
